@@ -19,16 +19,15 @@ Enter
 Sleep 2s
 
 Right
-Sleep 400ms
 Right
-Sleep 1s
+Sleep 2s
 Right
-Sleep 1s
+Sleep 2s
 Right
-Sleep 1s
+Sleep 2s
 Right
-Sleep 1s
+Sleep 2s
 Right
-Sleep 1s
+Sleep 2s
 Right
-Sleep 1s
+Sleep 2s
