@@ -16,7 +16,7 @@ Type " k"
 Tab
 Type "md"
 Enter
-Sleep 3s
+Sleep 2s
 
 Right
 Right
@@ -30,4 +30,4 @@ Sleep 3s
 Right
 Sleep 3s
 Right
-Sleep 3s
+Sleep 4s
