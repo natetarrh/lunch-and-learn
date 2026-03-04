@@ -2,7 +2,7 @@
 
 2023 Frameworks Onsite
 
-![demo](kubernetes-workshop.gif)
+<img width="560" src="kubernetes-workshop.gif" />
 
 ```
 slides kubernetes-workshop.md
