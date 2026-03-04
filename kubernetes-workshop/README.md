@@ -8,6 +8,8 @@
 slides kubernetes-workshop.md
 ```
 
+[View slides as PDF](kubernetes-workshop.pdf)
+
 ## Debugging Exercise
 
 As part of this presentation, each attendee was given a personal deployment preconfigured with one of three canned failure modes: an intentional crash loop, a bad liveness/readiness probe, or a memory limit set too low. Using the tools and commands covered in the presentation, they needed to identify and diagnose their specific failure.
