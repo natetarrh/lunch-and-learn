@@ -16,18 +16,18 @@ Type " k"
 Tab
 Type "md"
 Enter
-Sleep 2s
+Sleep 3s
 
 Right
 Right
-Sleep 2s
+Sleep 3s
 Right
-Sleep 2s
+Sleep 3s
 Right
-Sleep 2s
+Sleep 3s
 Right
-Sleep 2s
+Sleep 3s
 Right
-Sleep 2s
+Sleep 3s
 Right
-Sleep 2s
+Sleep 3s
